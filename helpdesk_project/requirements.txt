@@ -1,0 +1,6 @@
+# Web framework
+Django>=5.1,<5.2
+# REST API toolkit for Django
+djangorestframework>=3.15
+# PostgreSQL driver (only needed when you switch from SQLite to Postgres)
+psycopg2-binary>=2.9
