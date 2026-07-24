@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+db.sqlite3
+.env
+
+# Virtual environments (applies repo-wide, including root-level venv/)
+venv/
+.venv/
+env/
+
+# Django
+*.log
+local_settings.py
+
+# Editor / OS
+.vscode/settings.json
+.DS_Store
